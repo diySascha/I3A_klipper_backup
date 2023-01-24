@@ -1,14 +1,12 @@
 #!/bin/bash
 file_date=(`date +%Y-%m-%d_%H-%M`)
 log_date=(`date +%Y-%m-%d_%H:%M:%S`)
-echo $log_date
+echo START GIT upload at $log_date
 echo "-------------------------------------------------" >> /home/pi/printer_data/config/Backuplogs/git_ready.log
-echo $log_date >> /home/pi/printer_data/config/Backuplogs/git_ready.log
-echo "START--------------------------------------------" >> /home/pi/printer_data/config/Backuplogs/git_ready.log
+echo START GIT upload at $log_date >> /home/pi/printer_data/config/Backuplogs/git_ready.log
 echo "-------------------------------------------------" >> /home/pi/printer_data/config/Backuplogs/git_ready.log
 echo "-------------------------------------------------" >> /home/pi/printer_data/config/Backuplogs/git_fail.log
-echo $log_date >> /home/pi/printer_data/config/Backuplogs/git_fail.log
-echo "START--------------------------------------------" >> /home/pi/printer_data/config/Backuplogs/git_fail.log
+echo START GIT upload at $log_date >> /home/pi/printer_data/config/Backuplogs/git_fail.log
 echo "-------------------------------------------------" >> /home/pi/printer_data/config/Backuplogs/git_fail.log
 cd ~/printer_data/config >> /home/pi/printer_data/config/Backuplogs/git_ready.log
 sleep 0.25s ; git remote -v 1>> /home/pi/printer_data/config/Backuplogs/git_ready.log 2>> /home/pi/printer_data/config/Backuplogs/git_fail.log
