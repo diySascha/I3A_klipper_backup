@@ -18,6 +18,8 @@ sleep 0.2s ; git add . 1>> /home/pi/printer_data/config/Backuplogs/git_ready.log
 sleep 0.1s ; git commit -m Backup_`date +%Y_%m_%d` 1>> /home/pi/printer_data/config/Backuplogs/git_ready.log 2>> /home/pi/printer_data/config/Backuplogs/git_fail.log
 sleep 0.1s ; git branch -M main 1>> /home/pi/printer_data/config/Backuplogs/git_ready.log 2>> /home/pi/printer_data/config/Backuplogs/git_fail.log
 sleep 0.2s ; git push -f origin main 1>> /home/pi/printer_data/config/Backuplogs/git_ready.log 2>> /home/pi/printer_data/config/Backuplogs/git_fail.log
+echo GIT Repo adress: https://github.com/diySascha/I3A_klipper_backup
+echo GIT Repo adress: https://github.com/diySascha/I3A_klipper_backup >> /home/pi/printer_data/config/Backuplogs/git_ready.log
 log_date=(`date +%Y-%m-%d_%H:%M:%S`)
 echo DONE with GIT upload script at  $log_date
 echo "-------------------------------------------------" >> /home/pi/printer_data/config/Backuplogs/git_ready.log

@@ -6,3 +6,20 @@ origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
 origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
 origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
 Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
+[main 6ed66e0] Backup_2023_01_24
+ 5 files changed, 43 insertions(+), 123 deletions(-)
+ rewrite Backuplogs/git_fail.log (84%)
+ rewrite Backuplogs/git_ready.log (65%)
+ rewrite Backuplogs/log_fail.log (74%)
+ rewrite Backuplogs/log_ready.log (100%)
+-------------------------------------------------
+DONE with GIT upload script at 2023-01-24_21:21:03
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-01-24_21:26:04
+-------------------------------------------------
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
