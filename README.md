@@ -1,6 +1,6 @@
 # I3A / Klipper Backup
 
-### Backup of my Klipper for my Geeetech I3A 3D Printer<br />
+### Geeetech I3A 3D Printer with Klipper<br />
 
 with BL Touch, ADXL345, Z-Tilt (Dual Z Motors)<br />
 
