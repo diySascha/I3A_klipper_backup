@@ -1,4 +1,4 @@
-# I3A_klipper_backup
+# I3A / Klipper Backup
 
 ### Backup of my Klipper for my Geeetech I3A 3D Printer<br />
 
