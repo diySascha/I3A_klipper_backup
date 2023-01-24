@@ -1,65 +1,65 @@
-2023-01-24_19:54:31
-sending incremental file list
-./
-.gitignore
-             33 100%    0.00kB/s    0:00:00               33 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=30/32)
-Area_Mesh.cfg
-          5,978 100%    5.70MB/s    0:00:00            5,978 100%    5.70MB/s    0:00:00 (xfr#2, to-chk=29/32)
-KlipperScreen.conf
-            314 100%  306.64kB/s    0:00:00              314 100%  306.64kB/s    0:00:00 (xfr#3, to-chk=28/32)
-README.md
-            757 100%  739.26kB/s    0:00:00              757 100%  739.26kB/s    0:00:00 (xfr#4, to-chk=27/32)
-adxl345.cfg
-          6,269 100%    5.98MB/s    0:00:00            6,269 100%    5.98MB/s    0:00:00 (xfr#5, to-chk=26/32)
-crowsnest.conf
-          1,872 100%    1.79MB/s    0:00:00            1,872 100%    1.79MB/s    0:00:00 (xfr#6, to-chk=25/32)
-macros.cfg
-         16,834 100%   16.05MB/s    0:00:00           16,834 100%   16.05MB/s    0:00:00 (xfr#7, to-chk=24/32)
-moonraker.conf
-          3,185 100%    3.04MB/s    0:00:00            3,185 100%    3.04MB/s    0:00:00 (xfr#8, to-chk=23/32)
-neopixel.cfg
-         16,373 100%   15.61MB/s    0:00:00           16,373 100%    7.81MB/s    0:00:00 (xfr#9, to-chk=22/32)
-printer.cfg
-         19,902 100%    9.49MB/s    0:00:00           19,902 100%    9.49MB/s    0:00:00 (xfr#10, to-chk=21/32)
-shell_command.cfg
-            624 100%  304.69kB/s    0:00:00              624 100%  304.69kB/s    0:00:00 (xfr#11, to-chk=20/32)
-sonar.conf
-            770 100%  375.98kB/s    0:00:00              770 100%  375.98kB/s    0:00:00 (xfr#12, to-chk=19/32)
-telegram.conf
-          8,880 100%    4.23MB/s    0:00:00            8,880 100%    2.82MB/s    0:00:00 (xfr#13, to-chk=18/32)
-timelapse.cfg
-         21,952 100%    6.98MB/s    0:00:00           21,952 100%    6.98MB/s    0:00:00 (xfr#14, to-chk=17/32)
-.scripts/
-.scripts/backup_GIT.sh
-          3,258 100%  109.71kB/s    0:00:00            3,258 100%  109.71kB/s    0:00:00 (xfr#15, to-chk=13/32)
-.scripts/backup_NAS.sh
-          1,076 100%   36.23kB/s    0:00:00            1,076 100%   36.23kB/s    0:00:00 (xfr#16, to-chk=12/32)
-.scripts/script_calc_res_x.sh
-            104 100%    3.50kB/s    0:00:00              104 100%    3.50kB/s    0:00:00 (xfr#17, to-chk=11/32)
-.scripts/script_calc_res_x_y.sh
-            198 100%    6.67kB/s    0:00:00              198 100%    6.67kB/s    0:00:00 (xfr#18, to-chk=10/32)
-.scripts/script_calc_res_y.sh
-            104 100%    3.39kB/s    0:00:00              104 100%    3.39kB/s    0:00:00 (xfr#19, to-chk=9/32)
-.theme/
-.theme/custom.css
-          4,047 100%  131.74kB/s    0:00:00            4,047 100%  131.74kB/s    0:00:00 (xfr#20, to-chk=8/32)
-.theme/favicon-16x16.png
-            398 100%   12.96kB/s    0:00:00              398 100%   12.96kB/s    0:00:00 (xfr#21, to-chk=7/32)
-.theme/favicon-32x32.png
-            860 100%   27.99kB/s    0:00:00              860 100%   27.99kB/s    0:00:00 (xfr#22, to-chk=6/32)
-.theme/sidebar-background.png
-         32,768   9%  516.13kB/s    0:00:00          351,187 100%    1.99MB/s    0:00:00 (xfr#23, to-chk=5/32)
-.theme/sidebar-logo.png
-         26,966 100%  155.82kB/s    0:00:00           26,966 100%  155.82kB/s    0:00:00 (xfr#24, to-chk=4/32)
-Backuplogs/
-Backuplogs/git_fail.log
-          2,118 100%   12.24kB/s    0:00:00            2,118 100%   12.24kB/s    0:00:00 (xfr#25, to-chk=3/32)
-Backuplogs/git_ready.log
-          3,338 100%   19.18kB/s    0:00:00            3,338 100%   19.18kB/s    0:00:00 (xfr#26, to-chk=2/32)
-Backuplogs/log_fail.log
-            634 100%    3.64kB/s    0:00:00              634 100%    3.64kB/s    0:00:00 (xfr#27, to-chk=1/32)
-Backuplogs/log_ready.log
-          7,490 100%   43.03kB/s    0:00:00            7,490 100%   43.03kB/s    0:00:00 (xfr#28, to-chk=0/32)
-
-sent 507,784 bytes  received 579 bytes  1,016,726.00 bytes/sec
-total size is 501,906  speedup is 0.99
+  adding: config/.git/objects/ea/1e447d82cd11404ddb3eff108b0ce07b10e504 (stored 0%)
+  adding: config/.git/objects/ce/ (stored 0%)
+  adding: config/.git/objects/ce/6b9f0d01ee4a90334e9cf8135f202fdd4d57cf (stored 0%)
+  adding: config/.git/objects/14/ (stored 0%)
+  adding: config/.git/objects/14/f7699023b5651a1192dbeb9145bc24b1da2a2c (stored 0%)
+  adding: config/.git/objects/81/ (stored 0%)
+  adding: config/.git/objects/81/6efbad74556fcdd0a408b677c935bc746af117 (stored 0%)
+  adding: config/.git/branches/ (stored 0%)
+  adding: config/.git/description (deflated 14%)
+  adding: config/.git/logs/ (stored 0%)
+  adding: config/.git/logs/HEAD (deflated 89%)
+  adding: config/.git/logs/refs/ (stored 0%)
+  adding: config/.git/logs/refs/heads/ (stored 0%)
+  adding: config/.git/logs/refs/heads/main (deflated 86%)
+  adding: config/.git/logs/refs/remotes/ (stored 0%)
+  adding: config/.git/logs/refs/remotes/origin/ (stored 0%)
+  adding: config/.git/logs/refs/remotes/origin/main (deflated 27%)
+  adding: config/.git/hooks/ (stored 0%)
+  adding: config/.git/hooks/post-update.sample (deflated 27%)
+  adding: config/.git/hooks/pre-rebase.sample (deflated 59%)
+  adding: config/.git/hooks/push-to-checkout.sample (deflated 55%)
+  adding: config/.git/hooks/prepare-commit-msg.sample (deflated 50%)
+  adding: config/.git/hooks/pre-applypatch.sample (deflated 38%)
+  adding: config/.git/hooks/fsmonitor-watchman.sample (deflated 62%)
+  adding: config/.git/hooks/pre-push.sample (deflated 49%)
+  adding: config/.git/hooks/commit-msg.sample (deflated 44%)
+  adding: config/.git/hooks/applypatch-msg.sample (deflated 42%)
+  adding: config/.git/hooks/pre-commit.sample (deflated 45%)
+  adding: config/.git/hooks/update.sample (deflated 68%)
+  adding: config/.git/hooks/pre-merge-commit.sample (deflated 39%)
+  adding: config/.git/hooks/pre-receive.sample (deflated 40%)
+  adding: config/.git/refs/ (stored 0%)
+  adding: config/.git/refs/heads/ (stored 0%)
+  adding: config/.git/refs/heads/main (stored 0%)
+  adding: config/.git/refs/tags/ (stored 0%)
+  adding: config/.git/refs/remotes/ (stored 0%)
+  adding: config/.git/refs/remotes/origin/ (stored 0%)
+  adding: config/.git/refs/remotes/origin/main (stored 0%)
+  adding: config/.scripts/ (stored 0%)
+  adding: config/.scripts/script_calc_res_y.sh (deflated 17%)
+  adding: config/.scripts/script_calc_res_x_y.sh (deflated 52%)
+  adding: config/.scripts/backup_NAS.sh (deflated 76%)
+  adding: config/.scripts/backup_GIT.sh (deflated 88%)
+  adding: config/.scripts/script_calc_res_x.sh (deflated 17%)
+  adding: database/ (stored 0%)
+  adding: database/data.mdb (deflated 91%)
+  adding: database/lock.mdb (deflated 99%)
+  adding: logs/ (stored 0%)
+  adding: logs/mainsail-error.log (deflated 72%)
+  adding: logs/moonraker.log.2023-01-22 (deflated 86%)
+  adding: logs/crowsnest.log (deflated 96%)
+  adding: logs/klippy.log.2023-01-20 (deflated 85%)
+  adding: logs/klippy.log (deflated 91%)
+  adding: logs/moonraker.log.2023-01-23 (deflated 91%)
+  adding: logs/crowsnest.log.2023-01-24 (deflated 96%)
+  adding: logs/moonraker.log (deflated 87%)
+  adding: logs/klippy.log.2023-01-22 (deflated 89%)
+  adding: logs/klippy.log.2023-01-23 (deflated 91%)
+  adding: logs/telegram.log (deflated 98%)
+  adding: logs/klippy.log.2023-01-19 (deflated 87%)
+  adding: logs/klippy.log.2023-01-16 (deflated 90%)
+  adding: logs/crowsnest.log.2023-01-23 (deflated 96%)
+  adding: logs/mainsail-access.log (deflated 93%)
+  adding: logs/KlipperScreen.log (deflated 92%)
+  adding: logs/crowsnest.log.2023-01-22 (deflated 96%)
