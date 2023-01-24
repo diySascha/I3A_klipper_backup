@@ -3,3 +3,24 @@ origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
 origin	https://github.com/diySascha/I3A_klipper_backup.git (fetch)
 origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
 Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
+[main cd62b90] Backup_2023_01_24
+ 16 files changed, 523 insertions(+), 68 deletions(-)
+ create mode 100644 .scripts/Backup.sh
+ create mode 100644 .scripts/git.sh
+ create mode 100644 Area_Mesh.cfg
+ create mode 100644 "Backuplogs/git_fail.log\r"
+ create mode 100644 Backuplogs/git_ready.log
+ create mode 100644 "Backuplogs/git_ready.log\r"
+ create mode 100644 Backuplogs/log_fail.log
+ create mode 100644 "Backuplogs/log_fail.log\r"
+ create mode 100644 Backuplogs/log_ready.log
+ create mode 100644 "Backuplogs/log_ready.log\r"
+ create mode 100644 telegram.conf
+-------------------------------------------------
+2023-01-24_19:34:57
+START--------------------------------------------
+origin	https://github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
+origin	https://github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
+Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
