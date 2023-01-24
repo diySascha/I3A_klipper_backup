@@ -1,0 +1,10 @@
+-------------------------------------------------
+2023-01-22_20:34:42
+rsync: [generator] symlink "/home/pi/shares/klipper/Backup/2023-01-22_20-34/mainsail.cfg" -> "/home/pi/mainsail-config/mainsail.cfg" failed: Operation not supported (95)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1333) [sender=3.2.3]
+-------------------------------------------------
+2023-01-22_20:35:48
+-------------------------------------------------
+2023-01-22_20:38:15
+-------------------------------------------------
+2023-01-24_19:25:22
