@@ -1,65 +1,8 @@
 -------------------------------------------------
-origin	https://github.com/diySascha/I3A_klipper_backup.git (fetch)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (fetch)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
+START GIT upload script at 2023-01-24_20:33:18
+-------------------------------------------------
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
 Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
-[main 4f15df3] Backup_2023_01_24
- 2 files changed, 11 insertions(+), 121 deletions(-)
- rewrite Backuplogs/git_fail.log (95%)
- rewrite Backuplogs/git_ready.log (88%)
--------------------------------------------------
-DONE with GIT upload script at 2023-01-24_19:55:49
--------------------------------------------------
--------------------------------------------------
-START GIT upload script at 2023-01-24_19:56:38
--------------------------------------------------
-origin	https://github.com/diySascha/I3A_klipper_backup.git (fetch)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (fetch)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
-Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
-[main 6bfbbcc] Backup_2023_01_24
- 2 files changed, 22 insertions(+)
--------------------------------------------------
-DONE with GIT upload script at 2023-01-24_19:56:52
--------------------------------------------------
--------------------------------------------------
-START GIT upload script at 2023-01-24_20:07:21
--------------------------------------------------
-origin	https://github.com/diySascha/I3A_klipper_backup.git (fetch)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (fetch)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
-Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
-[main 7aac24a] Backup_2023_01_24
- 2 files changed, 21 insertions(+)
--------------------------------------------------
-DONE with GIT upload script at 2023-01-24_20:07:35
--------------------------------------------------
--------------------------------------------------
-START GIT upload script at 2023-01-24_20:09:59
--------------------------------------------------
-origin	https://github.com/diySascha/I3A_klipper_backup.git (fetch)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (fetch)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
-Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
-[main 1d91cbe] Backup_2023_01_24
- 3 files changed, 22 insertions(+), 1 deletion(-)
--------------------------------------------------
-DONE with GIT upload script at 2023-01-24_20:10:11
--------------------------------------------------
--------------------------------------------------
-START GIT upload script at 2023-01-24_20:14:34
--------------------------------------------------
-origin	https://github.com/diySascha/I3A_klipper_backup.git (fetch)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (fetch)
-origin	https://github.com/diySascha/I3A_klipper_backup.git (push)
-Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
-[main 5a64fcc] Backup_2023_01_24
- 3 files changed, 22 insertions(+), 1 deletion(-)
--------------------------------------------------
-DONE with GIT upload script at 2023-01-24_20:14:47
--------------------------------------------------
