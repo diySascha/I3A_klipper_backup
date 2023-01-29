@@ -23,3 +23,17 @@ origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
 origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
 origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
 Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
+[main 0669ebb] Backup_2023_01_24
+ 3 files changed, 27 insertions(+)
+GIT Repo adress: https://github.com/diySascha/I3A_klipper_backup
+-------------------------------------------------
+DONE with GIT upload script at 2023-01-24_21:26:08
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-01-29_12:22:44
+-------------------------------------------------
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
