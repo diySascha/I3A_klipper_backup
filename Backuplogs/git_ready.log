@@ -51,3 +51,18 @@ origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
 origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
 origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
 Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
+[main ccc6733] Backup_2023_01_29
+ 7 files changed, 432 insertions(+), 51 deletions(-)
+ create mode 100644 sounds.cfg
+GIT Repo adress: https://github.com/diySascha/I3A_klipper_backup
+-------------------------------------------------
+DONE with GIT upload script at 2023-01-29_15:21:03
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-02-05_10:42:47
+-------------------------------------------------
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
