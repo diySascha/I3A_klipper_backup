@@ -1,0 +1,65 @@
+-------------------------------------------------
+To ssh://github.com/diySascha/I3A_klipper_backup.git
+ + 28d1e99...70067e4 main -> main (forced update)
+-------------------------------------------------
+DONE with GIT upload script at 2023-02-10_18:03:41
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-02-20_00:39:17
+-------------------------------------------------
+To ssh://github.com/diySascha/I3A_klipper_backup.git
+ + c7fce9d...b2921e5 main -> main (forced update)
+-------------------------------------------------
+DONE with GIT upload script at 2023-02-20_00:39:21
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-02-20_00:44:47
+-------------------------------------------------
+To ssh://github.com/diySascha/I3A_klipper_backup.git
+   b2921e5..838c247  main -> main
+-------------------------------------------------
+DONE with GIT upload script at 2023-02-20_00:44:50
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-02-20_00:46:09
+-------------------------------------------------
+To ssh://github.com/diySascha/I3A_klipper_backup.git
+   838c247..e753cdc  main -> main
+-------------------------------------------------
+DONE with GIT upload script at 2023-02-20_00:46:13
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-08-26_12:36:46
+-------------------------------------------------
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'pi@i3a.(none)')
+error: src refspec main does not match any
+error: failed to push some refs to 'origin'
+-------------------------------------------------
+DONE with GIT upload script at 2023-08-26_12:36:47
+-------------------------------------------------

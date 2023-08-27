@@ -1,0 +1,65 @@
+-------------------------------------------------
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
+[main 70067e4] Backup_2023_02_10
+ 7 files changed, 401 insertions(+), 115 deletions(-)
+ rename printer-20230205_161430.cfg => printer-20230209_233236.cfg (71%)
+GIT Repo adress: https://github.com/diySascha/I3A_klipper_backup
+-------------------------------------------------
+DONE with GIT upload script at 2023-02-10_18:03:41
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-02-20_00:39:17
+-------------------------------------------------
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
+[main b2921e5] Backup_2023_02_20
+ 5 files changed, 212 insertions(+), 842 deletions(-)
+ rewrite KlipperScreen.conf (99%)
+ delete mode 100644 printer-20230209_233236.cfg
+GIT Repo adress: https://github.com/diySascha/I3A_klipper_backup
+-------------------------------------------------
+DONE with GIT upload script at 2023-02-20_00:39:21
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-02-20_00:44:47
+-------------------------------------------------
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
+[main 838c247] Backup_2023_02_20
+ 5 files changed, 39 insertions(+), 39 deletions(-)
+GIT Repo adress: https://github.com/diySascha/I3A_klipper_backup
+-------------------------------------------------
+DONE with GIT upload script at 2023-02-20_00:44:50
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-02-20_00:46:09
+-------------------------------------------------
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/I3A_klipper_backup.git (push)
+Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
+[main e753cdc] Backup_2023_02_20
+ 5 files changed, 36 insertions(+), 36 deletions(-)
+GIT Repo adress: https://github.com/diySascha/I3A_klipper_backup
+-------------------------------------------------
+DONE with GIT upload script at 2023-02-20_00:46:13
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-08-26_12:36:46
+-------------------------------------------------
+Initialized empty Git repository in /home/pi/printer_data/config/.git/
+GIT Repo adress: https://github.com/diySascha/I3A_klipper_backup
+-------------------------------------------------
+DONE with GIT upload script at 2023-08-26_12:36:47
+-------------------------------------------------
