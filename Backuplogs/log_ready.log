@@ -1,10 +1,3 @@
-Backup saved into: /home/pi/shares/klipper/Backup/I3A_Klipper_2023-02-07_11-59.zip
--------------------------------------------------
-DONE with NAS Backup script at 2023-02-07_11:59:37
--------------------------------------------------
--------------------------------------------------
-START NAS Backup script at 2023-02-10_18:03:27
--------------------------------------------------
 Backup saved into: /home/pi/shares/klipper/Backup/I3A_Klipper_2023-02-10_18-03.zip
 -------------------------------------------------
 DONE with NAS Backup script at 2023-02-10_18:03:37
@@ -62,4 +55,11 @@ START NAS Backup script at 2023-10-22_22:12:34
 Backup saved into: /home/pi/shares/klipper/Backup/I3A_Klipper_2023-10-22_22-12.zip
 -------------------------------------------------
 DONE with NAS Backup script at 2023-10-22_22:12:40
+-------------------------------------------------
+-------------------------------------------------
+START NAS Backup script at 2024-05-04_08:14:59
+-------------------------------------------------
+Backup saved into: /home/pi/shares/klipper/Backup/I3A_Klipper_2024-05-04_08-14.zip
+-------------------------------------------------
+DONE with NAS Backup script at 2024-05-04_08:15:04
 -------------------------------------------------
