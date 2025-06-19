@@ -1,10 +1,3 @@
--------------------------------------------------
-START NAS Backup script at 2023-08-26_12:36:26
--------------------------------------------------
-zip I/O error: No such file or directory
-zip error: Could not create output file (/home/pi/shares/klipper/Backup/I3A_Klipper_2023-08-26_12-36.zip)
-Backup saved into: /home/pi/shares/klipper/Backup/I3A_Klipper_2023-08-26_12-36.zip
--------------------------------------------------
 DONE with NAS Backup script at 2023-08-26_12:36:26
 -------------------------------------------------
 -------------------------------------------------
@@ -62,4 +55,11 @@ START NAS Backup script at 2025-05-11_21:36:38
 Backup saved into: /home/pi/shares/klipper/Backup/I3A_Klipper_2025-05-11_21-36.zip
 -------------------------------------------------
 DONE with NAS Backup script at 2025-05-11_21:36:44
+-------------------------------------------------
+-------------------------------------------------
+START NAS Backup script at 2025-06-19_20:59:12
+-------------------------------------------------
+Backup saved into: /home/pi/shares/klipper/Backup/I3A_Klipper_2025-06-19_20-59.zip
+-------------------------------------------------
+DONE with NAS Backup script at 2025-06-19_20:59:18
 -------------------------------------------------
